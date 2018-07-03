@@ -21,3 +21,24 @@ https://github.com/facebook/prop-types
 React Router is a collection of navigational components that compose declaratively with your application. 
 
 https://github.com/ReactTraining/react-router
+
+
+## Redux
+
+Predictable state container for JavaScript apps.
+
+https://github.com/reduxjs/redux/
+
+
+## React-redux
+
+Official React bindings for Redux.
+
+https://github.com/reduxjs/react-redux
+
+
+## Redux thunk
+
+Thunk middleware for Redux.
+
+https://github.com/reduxjs/redux-thunk
