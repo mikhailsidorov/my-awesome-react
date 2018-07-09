@@ -42,3 +42,10 @@ https://github.com/reduxjs/react-redux
 Thunk middleware for Redux.
 
 https://github.com/reduxjs/redux-thunk
+
+
+# Enzyme
+
+Enzyme is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
+
+https://github.com/airbnb/enzyme
