@@ -44,8 +44,15 @@ Thunk middleware for Redux.
 https://github.com/reduxjs/redux-thunk
 
 
-# Enzyme
+## Enzyme
 
 Enzyme is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
 
 https://github.com/airbnb/enzyme
+
+
+## Next.js
+
+Next.js is a minimalistic framework for server-rendered React applications.
+
+https://github.com/zeit/next.js
