@@ -56,3 +56,10 @@ https://github.com/airbnb/enzyme
 Next.js is a minimalistic framework for server-rendered React applications.
 
 https://github.com/zeit/next.js
+
+
+## React transition group
+
+A set of components for managing component states (including mounting and unmounting) over time, specifically designed with animation in mind.
+
+https://github.com/reactjs/react-transition-group
