@@ -63,3 +63,17 @@ https://github.com/zeit/next.js
 A set of components for managing component states (including mounting and unmounting) over time, specifically designed with animation in mind.
 
 https://github.com/reactjs/react-transition-group
+
+
+## Redux-saga
+
+An alternative side effect model for Redux apps.
+
+https://github.com/redux-saga/redux-saga
+
+
+## gatsby
+
+Blazing-fast static site generator for React
+
+https://github.com/gatsbyjs/gatsby
