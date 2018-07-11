@@ -72,8 +72,15 @@ An alternative side effect model for Redux apps.
 https://github.com/redux-saga/redux-saga
 
 
-## gatsby
+## Gatsby
 
 Blazing-fast static site generator for React
 
 https://github.com/gatsbyjs/gatsby
+
+
+## React-bootstrap
+
+Bootstrap 3 components built with React
+
+https://github.com/react-bootstrap/react-bootstrap
