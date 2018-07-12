@@ -91,3 +91,10 @@ https://github.com/react-bootstrap/react-bootstrap
 Renders Markdown as pure React components.
 
 https://github.com/rexxars/react-markdown
+
+
+## React-highlight
+
+React component for syntax highlighting using highlight.js.
+
+https://github.com/akiran/react-highlight
