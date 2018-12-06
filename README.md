@@ -98,3 +98,10 @@ https://github.com/rexxars/react-markdown
 React component for syntax highlighting using highlight.js.
 
 https://github.com/akiran/react-highlight
+
+
+## React-imageloader
+
+A React component for wrangling image loading.
+
+https://github.com/hzdg/react-imageloader
