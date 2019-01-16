@@ -105,3 +105,11 @@ https://github.com/akiran/react-highlight
 A React component for wrangling image loading.
 
 https://github.com/hzdg/react-imageloader
+
+
+## React-slick
+
+Carousel component built with React.
+
+https://github.com/akiran/react-slick
+
