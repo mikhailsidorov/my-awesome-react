@@ -113,3 +113,9 @@ Carousel component built with React.
 
 https://github.com/akiran/react-slick
 
+
+## React-slick
+
+Visual primitives for the component age.
+
+https://github.com/styled-components/styled-components
