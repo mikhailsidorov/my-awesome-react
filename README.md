@@ -126,3 +126,10 @@ https://github.com/styled-components/styled-components
 Simple React Bootstrap 4 components
 
 https://github.com/reactstrap/reactstrap
+
+
+## React-fontawesome
+
+Font Awesome 5 React component
+
+https://github.com/FortAwesome/react-fontawesome
