@@ -141,3 +141,9 @@ React media is a CSS media query component for React.
 
 https://github.com/ReactTraining/react-media
 
+
+## React-plx
+
+React parallax component, powerful and lightweight
+
+https://github.com/Stanko/react-plx
